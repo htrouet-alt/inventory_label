@@ -1,0 +1,1 @@
+compiling: pyinstaller --onefile --windowed --icon="icon.ico" --clean "Inventory Label.py"
